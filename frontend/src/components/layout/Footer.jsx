@@ -32,7 +32,7 @@ const Footer = () => {
           {/* Links */}
           <div className="flex items-center gap-8">
             <a
-              href="https://github.com/yourusername/screenpulse"
+              href="https://github.com/kumar1035/ScreenPulse.git"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm font-medium text-gray-500 hover:text-white transition-colors"
