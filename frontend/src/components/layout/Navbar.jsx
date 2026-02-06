@@ -60,7 +60,7 @@ const Navbar = () => {
             <NavLink to="/how-it-works">How It Works</NavLink>
 
             <NavLink
-              to="https://github.com/yourusername/screenpulse"
+              to="https://github.com/kumar1035/ScreenPulse.git"
               external
             >
               GitHub
