@@ -29,3 +29,11 @@ It allows users to instantly create a room, share a link, and stream their scree
 - Node.js
 - Express.js
 - Socket.io (Signaling Server)
+
+
+### Core Technology
+- WebRTC (Peer-to-Peer Media Streaming)
+
+---
+
+## 📂 Project Structure
