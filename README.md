@@ -6,3 +6,13 @@ It allows users to instantly create a room, share a link, and stream their scree
 ---
 
 ## ✨ Features
+✅ Instant Room Creation  
+✅ Peer-to-Peer Screen Sharing (WebRTC)  
+✅ Secure Low-Latency Streaming  
+✅ No Accounts / No Installations Required  
+✅ Share Room Link with One Click  
+✅ Modern UI with React + TailwindCSS  
+✅ Works on Chrome, Firefox, Edge, Safari  
+✅ Privacy First — No Screen Data Stored on Servers  
+
+---
