@@ -16,3 +16,16 @@ It allows users to instantly create a room, share a link, and stream their scree
 ✅ Privacy First — No Screen Data Stored on Servers  
 
 ---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React.js (Vite)
+- Tailwind CSS
+- Framer Motion Animations
+- Lucide Icons
+
+### Backend
+- Node.js
+- Express.js
+- Socket.io (Signaling Server)
