@@ -69,3 +69,16 @@ Follow these steps to run ScreenPulse locally:
 ```bash
 git clone https://github.com/kumar1035/screenpulse.git
 cd screenpulse
+
+
+2️⃣ Setup Backend
+cd backend
+npm install
+npm run dev
+
+
+Backend will start at:
+
+http://localhost:5000
+
+
