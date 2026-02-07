@@ -93,3 +93,27 @@ npm run dev
 Frontend will run at:
 
 http://localhost:5173
+
+📌 How It Works
+
+User creates a room
+
+A unique Room ID is generated
+
+Link is shared with another peer
+
+Socket.io exchanges signaling data
+
+WebRTC establishes direct peer connection
+
+Screen stream is shared securely
+
+🔒 Privacy & Security
+
+ScreenPulse is built with privacy in mind:
+
+Streams are shared directly between peers
+
+No screen content is stored on servers
+
+Signaling server is only used to establish the connection
