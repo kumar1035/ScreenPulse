@@ -81,4 +81,15 @@ Backend will start at:
 
 http://localhost:5000
 
+3️⃣ Setup Frontend
 
+Open a new terminal:
+
+cd frontend
+npm install
+npm run dev
+
+
+Frontend will run at:
+
+http://localhost:5173
