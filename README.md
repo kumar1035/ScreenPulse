@@ -37,3 +37,35 @@ It allows users to instantly create a room, share a link, and stream their scree
 ---
 
 ## 📂 Project Structure
+
+SCREENPULSE/
+│
+├── backend/
+│ ├── src/
+│ │ ├── index.js
+│ │ └── socket.js
+│ └── package.json
+│
+├── frontend/
+│ ├── src/
+│ │ ├── components/
+│ │ ├── pages/
+│ │ └── assets/
+│ └── package.json
+│
+└── README.md
+
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run ScreenPulse locally:
+
+---
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/kumar1035/screenpulse.git
+cd screenpulse
