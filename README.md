@@ -100,7 +100,7 @@ User creates a room
 
 A unique Room ID is generated
 
-Link is shared with another peer
+Link is shared with another
 
 Socket.io exchanges signaling data
 
