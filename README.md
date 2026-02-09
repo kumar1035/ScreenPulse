@@ -110,10 +110,10 @@ User creates a room
 
 🔒 Privacy & Security
 
-ScreenPulse is built with privacy in mind:
+1.ScreenPulse is built with privacy in mind:
 
-Streams are shared directly between peers
+2.Streams are shared directly between peers
 
-No screen content is stored on servers
+3.No screen content is stored on servers
 
-Signaling server is only used to establish the connection
+4.Signaling server is only used to establish the connection
