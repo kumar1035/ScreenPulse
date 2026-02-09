@@ -98,15 +98,15 @@ http://localhost:5173
 
 User creates a room
 
-A unique Room ID is generated
+1.A unique Room ID is generated
 
-Link is shared with another
+2.Link is shared with another
 
-Socket.io exchanges signaling data
+3.Socket.io exchanges signaling data
 
-WebRTC establishes direct peer connection
+4.WebRTC establishes direct peer connection
 
-Screen stream is shared securely
+5.Screen stream is shared securely
 
 🔒 Privacy & Security
 
