@@ -28,7 +28,7 @@ It allows users to instantly create a room, share a link, and stream their scree
 ### Backend
 - Node.js
 - Express.js
-- Socket.io (Signaling Server)
+- Socket.io 
 
 
 ### Core Technology
